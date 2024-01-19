@@ -42,3 +42,11 @@ HyperHealth introduces a groundbreaking approach to EMR sharing, leveraging zero
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/TechieTeee/HyperHealth.git
+
+2.**Run**
+  ```bash
+cd HyperHealth
+npm install
+npm start
+
+
